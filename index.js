@@ -1,7 +1,7 @@
 const version = require("./package.json").version
 
 module.exports = {
-  creator: "Thoriq Azzikra",
+  creator: "Ren",
   version: version,
   tools: require("./src/tools.js"),
   downloader: require("./src/downloader.js"),
